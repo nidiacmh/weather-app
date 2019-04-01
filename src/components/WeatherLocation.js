@@ -3,8 +3,9 @@ import Location from './Location';
 import WeatherData from './WeatherData'
 
 const WeatherLocation = () => (//arrow function
+  
   <div>
-      <Location/>
+      <Location city={"México - Puebla"}/>
       <WeatherData/>
   </div>
 ); //Este codigo se ejecuta con la ayuda de babel, es el cuerpo del componente
