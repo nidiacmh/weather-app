@@ -1,7 +1,7 @@
 import React from 'react';//Se importa el paquete de react
 //import PropTypes from 'prop-types';
 import Location from './Location';
-import WeatherData from './WeatherData'
+import WeatherData from './WeatherData';
 
 const WeatherLocation = () => (//arrow function
 
