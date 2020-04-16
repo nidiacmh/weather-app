@@ -9,9 +9,10 @@ import {
   SNOW,
   WINDY,
 }from './../../../constants/weathers';
+import './styles.css';
 
 const WeatherData = ( ) => (
-  <div>
+  <div className="weatherDataCont">
     <span>Datos del clima:</span>
     <WeatherTemperature
       temperature = {20}
