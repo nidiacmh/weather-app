@@ -1,10 +1,10 @@
 .weatherDataCont{
   background-color: rgba(200, 200, 200, 0.5);
   width:auto;
-  height: 100px;
+  height:50p;
   line-height: 100px;
   border-radius: 5px;
-  margin: 15px;
+
   text-align: center;
 }
 
@@ -14,7 +14,7 @@
 }
 
 .weatherExtraInfoCont{
-  background-color: inherit;
+  
   width: 100%;
   display: inline-block;
   line-height: 25px;
